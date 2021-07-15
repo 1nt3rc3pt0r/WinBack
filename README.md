@@ -1,5 +1,23 @@
 # WinBack
 Windows C2 and Backdoor Training
 
-Contains source code from training for Windows Backdoor and Keylogger
-Contains C2 Server Code
+Contains source code from training for Windows Backdoor and Keylogger `backdoor.c logger.h`
+
+Contains C2 Server Code `server.c`
+
+----
+
+Note:
+This code is provided * **strictly** * for educational use only.
+
+Read the LICENSE for more information
+
+```
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+```
